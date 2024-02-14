@@ -25,7 +25,7 @@ The goal of this project is to create a simple file management API using Node.js
 
    ```env
    PORT=3000
-   UPLOADS_DIRECTORY=./uploads
+   UPLOADS_DIRECTORY=uploads
    SECRET_KEY=your_secret_key
    MONGO_URL=your_mongodb_uri
    ```
