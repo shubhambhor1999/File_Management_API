@@ -1,4 +1,3 @@
-// services/fileService.js
 const fs = require("fs/promises");
 const path = require("path");
 const { encryptData, decryptData } = require("../utils/encryptionUtils");

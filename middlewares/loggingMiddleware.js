@@ -1,4 +1,3 @@
-// middleware/loggingMiddleware.js
 const morgan = require("morgan");
 
 const loggerFormat =

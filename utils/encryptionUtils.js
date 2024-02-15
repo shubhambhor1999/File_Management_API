@@ -1,5 +1,4 @@
 const crypto = require("crypto");
-// const config = require("../config");
 
 function encryptData(data) {
   const cipher = crypto.createCipher("aes-256-cbc", process.env.SECRET_KEY);
